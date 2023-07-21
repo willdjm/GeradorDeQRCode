@@ -15,4 +15,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://willdjm.github.io/buscadordecep)
+- [Acesse o projeto finalizado, online](https://willdjm.github.io/geradordeqrcode)
